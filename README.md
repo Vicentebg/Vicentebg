@@ -14,8 +14,8 @@ I am seeking challenging opportunities in the DevOps field where I can apply my 
 
 [![Perfil DIO](https://img.shields.io/badge/-My%20Profile%20on%20DIO-30A3DC?style=for-the-badge)](https://www.dio.me/users/vicentinhobg)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=E94D5F)](mailto:josevicentebgrande@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/jose-vicente-bonadio-grande-834738b2/)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=30A3DC)](https://www.linkedin.com/in/josevicentebgrande/)
+[![GoogleSkills](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white)](https://www.skills.google/public_profiles/e0be5a29-33b7-4663-a683-e6f06367d376)
 
 ### Skills
 
